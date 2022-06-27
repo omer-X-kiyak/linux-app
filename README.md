@@ -1,4 +1,4 @@
-# linux-app
+# linux-apps
 <h3>content</h3>
 
 <h6> linux-applications </h6>
