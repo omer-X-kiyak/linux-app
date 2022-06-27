@@ -1,5 +1,5 @@
 # linux-app
-<h1>content</h1>
+<h3>content</h3>
 
 <h6> linux-applications </h6>
 <h6> 1) sound equalizer </h6>
